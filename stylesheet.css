@@ -1,0 +1,93 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #030267;
+	margin-bottom: 10px;
+	font-family: 'Trirong', serif;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 19px;
+	font-family: 'Trirong', serif;
+	color: #ffffff;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 19px;
+	font-family: 'Trirong', serif;
+	color: #ffffff;
+}
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: 'Trirong', serif;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: 'Trirong', serif;
+	color: #f9ff00;
+}
+
+li {
+	font-family: 'Trirong', serif;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #030267;
+	margin-bottom: 10px;
+	font-family: 'Trirong', serif;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 400px;
+	background-color: #ca0000;
+	margin-bottom: 10px;
+	font-family: 'Trirong', serif;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #030267;
+	clear: both;
+	font-family: 'Trirong', serif;
+	font-size: 19px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+	font-family: 'Trirong', serif;
+}
